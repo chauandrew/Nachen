@@ -1,7 +1,9 @@
+![alt text](https://github.com/chauandrew/NachenBlaster/blob/master/screenshot.PNG)
+
 # NachenBlaster:
 ## UCLA CS32 Winter 2018 Project 3
 
-NachenBlaster is a space shooter game for Windows (I have no idea about mac integration)
+NachenBlaster is a space shooter game for Windows
 
 ### How to play the game
 
